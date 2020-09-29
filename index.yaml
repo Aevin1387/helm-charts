@@ -19,7 +19,7 @@ entries:
     - metric
     maintainers:
     - email: aevin1387@live.com
-      name: Datadog
+      name: Cory Stephenson
     name: datadog
     sources:
     - https://app.datadoghq.com/account/settings#agent/kubernetes
@@ -41,7 +41,7 @@ entries:
     - metric
     maintainers:
     - email: aevin1387@live.com
-      name: Datadog
+      name: Cory Stephenson
     name: datadog-operator
     sources:
     - https://app.datadoghq.com/account/settings#agent/kubernetes
